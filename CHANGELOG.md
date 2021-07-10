@@ -2,10 +2,17 @@
 
 ## WIP
 
+### Fixed
+
+- Fix animation classes only partially being removed in Scrollspy component
+
+## 3.7.0 (June 29, 2021)
+
 ### Added
 
 - Add text decoration modifier to Text component
 - Add width variable to range thumb in to Form Range component
+- Add Bag icon
 
 ### Change
 
@@ -13,6 +20,9 @@
 - Change badge width and font size in Badge component
 - Change button link color and text decoration in Button component
 - Change card badge height in Card component
+- Remove margin from the navbar item last-child in Navbar component
+- Add white space gap for navbar item in Navbar component
+- Allow text after icon in Iconnav component
 
 ### Removed
 
